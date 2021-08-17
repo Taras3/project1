@@ -1,0 +1,14 @@
+.block{
+    background: #8B7D6B;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+   margin: 0 auto;
+}
+.box{
+    width: 25%;
+    background: #8B7D6B;
+    border-radius: 10px;
+}
